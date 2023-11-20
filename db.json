@@ -1,0 +1,70 @@
+{
+  "characters": [
+    {
+      "id": 1,
+      "name": "Mr. Cute",
+      "image": "https://thumbs.gfycat.com/EquatorialIckyCat-max-1mb.gif",
+      "votes": 0
+    },
+    {
+      "id": 2,
+      "name": "Mx. Monkey",
+      "image": "https://thumbs.gfycat.com/FatalInnocentAmericanshorthair-max-1mb.gif",
+      "votes": 3
+    },
+    {
+      "id": 3,
+      "name": "Ms. Zebra",
+      "image": "https://media2.giphy.com/media/20G9uNqE3K4dRjCppA/source.gif",
+      "votes": 0
+    },
+    {
+      "id": 4,
+      "name": "Dr. Lion",
+      "image": "http://bestanimations.com/Animals/Mammals/Cats/Lions/animated-lion-gif-11.gif",
+      "votes": 0
+    },
+    {
+      "id": 5,
+      "name": "Mme. Panda",
+      "image": "https://media.giphy.com/media/ALalVMOVR8Qw/giphy.gif",
+      "votes": 0
+    },
+    {
+      "name": "Penguina",
+      "image": "https://cdn.britannica.com/77/81277-050-2A6A35B2/Adelie-penguin.jpg",
+      "votes": 0,
+      "id": 7
+    },
+    {
+      "name": "MR. ZOLUCARD",
+      "image": "https://static.vecteezy.com/system/resources/previews/002/410/747/original/cute-siamese-cat-on-yellow-background-free-photo.jpg",
+      "votes": 0,
+      "id": 8
+    },
+    {
+      "name": "ZULON",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMX_FAkbmLVsMHaxQ3kv5Qhnu8EdkzgxEJ-mnaNpkXIzqGJOYeBQuiNztw_U6NesY0Kn4&usqp=CAU",
+      "votes": 1,
+      "id": 9
+    },
+    {
+      "name": "Team Dog",
+      "image": "https://us.123rf.com/450wm/pixander/pixander2305/pixander230550774/205106542-group-of-dogs-on-a-dark-background-digital-painting-vector-illustration.jpg?ver=6",
+      "votes": 0,
+      "id": 10
+    },
+    {
+      "name": "MACKENZY",
+      "image": "data:image/jpeg;base64,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",
+      "votes": 1,
+      "id": 13
+    },
+    {
+      "name": "WILSON",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSARPzSLKvwmeSkB0eyahVzYM0LJ1_UH9yr9g&usqp=CAU",
+      "votes": 0,
+      "id": 14
+    }
+  ]
+}
